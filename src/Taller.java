@@ -649,9 +649,8 @@ public class Taller {
         double pesoMinimo = Double.MAX_VALUE;
 
         do {
-            System.out.println("=====================");
             System.out.println("   MENÚ DE GESTIÓN   ");
-            System.out.println("=====================");
+            System.out.println("---------------------");
             System.out.println("[1] -> Registrar bulto");
             System.out.println("[2] -> Consultar total de bultos registrados");
             System.out.println("[3] -> Consultar pesaje total acumulado");
