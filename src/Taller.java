@@ -722,9 +722,8 @@ public class Taller {
             double promedioPeso = pesoAcumulado / contadorBultos;
             double dolares = ingresos / 3000;
 
-            System.out.println("=====================");
             System.out.println(" REPORTE DE RESULTADOS ");
-            System.out.println("=====================");
+            System.out.println("-----------------------");
             System.out.println("Total de bultos registrados: [" + contadorBultos + "].");
             System.out.println("Mayor peso registrado: [" + pesoMaximo + " kg].");
             System.out.println("Menor peso registrado: [" + pesoMinimo + " kg].");
